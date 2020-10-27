@@ -1,7 +1,7 @@
 def loop_message_five_times(message)
   
   counter = 0 
-  3message = "Hello World."
+  #message = "Hello World."
   
   #while message[counter] do
   while counter < 5
